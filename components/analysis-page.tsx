@@ -2,10 +2,10 @@
 
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { ArrowLeft, ArrowRight, Clock, CalendarDays } from "lucide-react";
+import { ArrowLeft, ArrowRight, CalendarDays } from "lucide-react";
 import { DocRenderer } from "@/components/doc/doc-renderer";
 import { palette, useTheme } from "@/components/theme-provider";
-import { categoryBadge, categoryLabel, type AnalysisItem } from "@/lib/analysis";
+import { categoryBadge, categoryLabel, fullTitle, gameLabel, type AnalysisItem } from "@/lib/analysis";
 import { headings, type Block } from "@/lib/doc-parser";
 
 export function AnalysisPage({ item, blocks, related }: { item: AnalysisItem; blocks: Block[]; related: AnalysisItem[] }) {
@@ -40,11 +40,16 @@ export function AnalysisPage({ item, blocks, related }: { item: AnalysisItem; bl
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5, delay: 0.1 }} className="mb-10">
           <div className="flex items-center gap-3 mb-4 flex-wrap">
             <span className={`px-3 py-1 rounded-full text-xs font-medium border ${categoryBadge[item.category]}`}>{categoryLabel[item.category]}</span>
-            <span className={`text-xs ${p.muted}`} style={{ fontFamily: "var(--font-jetbrains-var, monospace)" }}>
-              {item.game}
+            <span className={`inline-flex items-center gap-1.5 text-xs ${p.muted}`}>
+              <CalendarDays size={12} /> {item.updated}
             </span>
           </div>
-          <h1 className={`text-3xl md:text-5xl font-bold mb-4 leading-tight ${p.text}`}>{item.title}</h1>
+          <h1 className={`text-3xl md:text-4xl lg:text-[2.75rem] font-bold mb-3 leading-tight break-keep ${p.text}`}>
+            <span className={p.muted}>{gameLabel(item.game)}</span>
+            <span className={`mx-2 md:mx-3 font-light ${p.faint}`}>|</span>
+            {item.title}
+          </h1>
+          <p className={`text-lg md:text-xl font-medium mb-4 ${p.text}`}>{item.subtitle}</p>
           <p className={`text-base md:text-lg leading-relaxed ${p.muted}`}>{item.logline}</p>
           <div className="flex flex-wrap gap-2 mt-6">
             {item.tags.map((t) => (
@@ -52,14 +57,6 @@ export function AnalysisPage({ item, blocks, related }: { item: AnalysisItem; bl
                 {t}
               </span>
             ))}
-          </div>
-          <div className={`flex flex-wrap items-center gap-4 mt-5 text-xs ${p.muted}`}>
-            <span className="inline-flex items-center gap-1.5">
-              <CalendarDays size={12} /> {item.updated}
-            </span>
-            <span className="inline-flex items-center gap-1.5">
-              <Clock size={12} /> 읽는 데 약 {item.readingMinutes}분
-            </span>
           </div>
         </motion.div>
 
@@ -103,7 +100,7 @@ export function AnalysisPage({ item, blocks, related }: { item: AnalysisItem; bl
                     <Link key={r.slug} href={`/analysis/${r.slug}`} className="group block">
                       <div className={`p-5 rounded-xl border ${p.borderSoft} ${p.card} transition-all duration-200 group-hover:border-accent/30 group-hover:shadow-lg h-full`}>
                         <span className={`text-[10px] font-medium uppercase tracking-wider mb-2 block ${p.muted}`}>{categoryLabel[r.category]}</span>
-                        <h3 className={`font-semibold text-sm mb-1 ${p.text} group-hover:text-accent transition-colors duration-200`}>{r.title}</h3>
+                        <h3 className={`font-semibold text-sm mb-1 ${p.text} group-hover:text-accent transition-colors duration-200`}>{fullTitle(r)}</h3>
                         <p className={`text-xs line-clamp-2 mb-3 ${p.muted}`}>{r.logline}</p>
                         <span className="flex items-center gap-1 text-accent text-xs opacity-0 group-hover:opacity-100 transition-opacity duration-200">
                           읽어보기 <ArrowRight size={11} className="group-hover:translate-x-0.5 transition-transform duration-200" />

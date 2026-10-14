@@ -4,6 +4,7 @@ import { ChevronDown } from "lucide-react";
 import type { Block, CalloutKind } from "@/lib/doc-parser";
 import { palette, useTheme, type Theme } from "@/components/theme-provider";
 import { Inline } from "@/components/doc/inline";
+import { Figure } from "@/components/doc/figure";
 
 const mono = { fontFamily: "var(--font-jetbrains-var, monospace)" } as const;
 
@@ -92,15 +93,7 @@ function BlockView({ block, theme }: { block: Block; theme: Theme }) {
     case "hr":
       return <hr className={`my-8 border-t ${p.divider}`} />;
     case "figure":
-      return (
-        <figure className="my-6">
-          <div className={`rounded-xl overflow-hidden border ${p.border} ${p.dark ? "bg-night-media" : "bg-white"}`}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={block.src} alt={block.alt} className="w-full h-auto block" loading="lazy" />
-          </div>
-          {block.caption && <figcaption className={`mt-2 text-xs text-center ${p.muted}`}>{block.caption}</figcaption>}
-        </figure>
-      );
+      return <Figure src={block.src} alt={block.alt} caption={block.caption} theme={theme} />;
     case "table":
       return (
         <div className={`doc-table-wrap my-4 rounded-xl border ${p.border}`}>

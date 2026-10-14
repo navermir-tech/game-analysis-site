@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { AnalysisPage } from "@/components/analysis-page";
-import { analysisItems, getItem } from "@/lib/analysis";
+import { analysisItems, fullTitle, getItem } from "@/lib/analysis";
 import { loadAnalysisDoc } from "@/lib/content";
 import { site } from "@/lib/site";
 
@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: PageProps<"/analysis/[slug]">
   const { slug } = await params;
   const item = getItem(slug);
   if (!item) return {};
-  const title = `${item.title} | ${site.owner} 분석서`;
+  const title = `${fullTitle(item)} · ${site.owner}`;
   return {
     title,
     description: item.logline,
