@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 440" width="1800" height="440" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1800" height="440" fill="#1a1718"/>
+<defs><marker id="ah-3ecf8e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3ecf8e"/></marker><marker id="ah-f3f4f5" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f3f4f5"/></marker></defs>
+<text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">DARK RESIDUE · TIERS</text>
+<text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >흔적 단계 0–3과 속죄로 내려가는 길</text>
+<circle cx="122" cy="222" r="62" fill="#2a2627" stroke="#3ecf8e" stroke-width="3"/>
+<text x="122" y="218" font-size="26" fill="#3ecf8e" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >0</text>
+<text x="122" y="244" font-size="14" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >깨끗함</text>
+<text x="122" y="314" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >0점</text>
+<text x="122" y="338" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >설득 신용 +2 · 진엔딩 조건</text>
+<circle cx="562" cy="222" r="62" fill="#2a2627" stroke="#9fb7c9" stroke-width="3"/>
+<text x="562" y="218" font-size="26" fill="#9fb7c9" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >1</text>
+<text x="562" y="244" font-size="14" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >그림자</text>
+<text x="562" y="314" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >1–19점</text>
+<text x="562" y="338" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >동료의 걱정 · 위즐리 면담</text>
+<circle cx="1002" cy="222" r="62" fill="#2a2627" stroke="#e2b85a" stroke-width="3"/>
+<text x="1002" y="218" font-size="26" fill="#e2b85a" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >2</text>
+<text x="1002" y="244" font-size="14" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >얼룩</text>
+<text x="1002" y="314" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >20–79점</text>
+<text x="1002" y="338" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >산 바카르의 경계 · 흔들리는 봉인</text>
+<circle cx="1442" cy="222" r="62" fill="#2a2627" stroke="#e36b6b" stroke-width="3"/>
+<text x="1442" y="218" font-size="26" fill="#e36b6b" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >3</text>
+<text x="1442" y="244" font-size="14" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >물듦</text>
+<text x="1442" y="314" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >80점 이상</text>
+<text x="1442" y="338" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >구원 불가 · 붉은 눈 잔상</text>
+<line x1="190" y1="206" x2="494" y2="206" stroke="#f3f4f5" stroke-width="2" marker-end="url(#ah-f3f4f5)"/>
+<text x="342.0" y="196" font-size="12" fill="#f3f4f5" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >저주 사용</text>
+<line x1="494" y1="242" x2="190" y2="242" stroke="#3ecf8e" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#ah-3ecf8e)"/>
+<text x="342.0" y="264" font-size="12" fill="#3ecf8e" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >버팀 — 퀘스트 점수 2점</text>
+<line x1="630" y1="206" x2="934" y2="206" stroke="#f3f4f5" stroke-width="2" marker-end="url(#ah-f3f4f5)"/>
+<text x="782.0" y="196" font-size="12" fill="#f3f4f5" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >누적 20</text>
+<line x1="934" y1="242" x2="630" y2="242" stroke="#3ecf8e" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#ah-3ecf8e)"/>
+<text x="782.0" y="264" font-size="12" fill="#3ecf8e" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >버팀 — 퀘스트 점수 2점</text>
+<line x1="1070" y1="206" x2="1374" y2="206" stroke="#f3f4f5" stroke-width="2" marker-end="url(#ah-f3f4f5)"/>
+<text x="1222.0" y="196" font-size="12" fill="#f3f4f5" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >누적 80</text>
+<line x1="1374" y1="242" x2="1070" y2="242" stroke="#3ecf8e" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#ah-3ecf8e)"/>
+<text x="1222.0" y="264" font-size="12" fill="#3ecf8e" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >버팀 — 퀘스트 점수 2점</text>
+<text x="40" y="370" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >실선은 사용으로 오르는 길, 점선은 마지막 사용 뒤 퀘스트 점수 2점(메인 1 · 사이드·관계 0.5)을 버텨 내려가는 길. 횟수 제한 없음</text>
+<text x="40" y="396" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >친구에게 쓴 저주(세바스찬에게 크루시오, 오미니스에게 임페리오)는 영구 기록 — 1단계가 바닥이 되어 0단계로 돌아갈 수 없다</text>
+</svg>

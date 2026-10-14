@@ -1,0 +1,92 @@
+@import "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css";
+@import "tailwindcss";
+
+/*
+  색 토큰 — 사이트의 강조색은 여기서만 바꿉니다.
+  EL 기획서 아카이브(라임 #c7d300 · 시안 #00a9e0)와 같은 진회색 배경을 쓰고,
+  강조색만 에메랄드(슬리데린) 계열로 바꿔 한 가족처럼 보이게 했습니다.
+*/
+@theme {
+  --color-accent: #3ecf8e; /* 에메랄드 — 주 강조색 (라임 자리) */
+  --color-accent-strong: #5fe0a4; /* 호버 시 밝은 에메랄드 */
+  --color-accent-2: #9fb7c9; /* 은빛 하늘색 — 보조 강조색 (시안 자리), 심층 분석 카테고리 */
+  --color-accent-3: #e2b85a; /* 금빛 — 재설계 제안 카테고리, 경고·강조 */
+  --color-ink: #1c1c1c; /* 라이트 모드 본문 */
+  --color-ink-muted: #6b6e73; /* 라이트 모드 보조 글자 */
+  --color-night: #231f20; /* 다크 모드 배경 */
+  --color-night-deep: #1c1819; /* 다크 모드 어두운 배경 */
+  --color-night-card: #2a2627; /* 다크 모드 카드 */
+  --color-night-media: #1a1718; /* 이미지 뒤 배경 */
+  --color-day: #f7f8f9; /* 라이트 모드 배경 */
+  --color-day-deep: #f0f1f2; /* 라이트 모드 어두운 배경 */
+  --color-day-footer: #eaebec;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: #f7f8f9;
+  background-color: #231f20;
+  font-family: Pretendard, "Apple SD Gothic Neo", sans-serif;
+  line-height: 1.8;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+html.light body {
+  color: #1c1c1c;
+  background-color: #f7f8f9;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #231f20;
+}
+::-webkit-scrollbar-thumb {
+  background: #6b6e73;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-accent);
+}
+html.light ::-webkit-scrollbar-track {
+  background: #f7f8f9;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-2) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.section-padding {
+  padding: 5rem 1.5rem;
+}
+@media (min-width: 768px) {
+  .section-padding {
+    padding: 7rem 2rem;
+  }
+}
+@media (min-width: 1280px) {
+  .section-padding {
+    padding: 9rem 3rem;
+  }
+}
+
+/* 분석서 본문 안의 표 — 좁은 화면에서는 가로로 스크롤 */
+.doc-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}

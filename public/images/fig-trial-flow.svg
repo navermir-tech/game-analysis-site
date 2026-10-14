@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 520" width="1800" height="520" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1800" height="520" fill="#1a1718"/>
+<defs><marker id="ah-a7a9ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#a7a9ad"/></marker></defs>
+<text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">PERCIVAL RACKHAM'S TRIAL · 11 OBJECTIVES</text>
+<text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >퍼시벌 랙햄의 시험 — 목표 11개의 흐름</text>
+<rect x="40" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="156.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >① 탑 앞 합류</text>
+<text x="156.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >플루 + 빗자루</text>
+<line x1="272" y1="189.0" x2="319" y2="189.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="322" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="438.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >② 캠프 조사</text>
+<text x="438.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >투영 마법 · 페트리피쿠스</text>
+<line x1="554" y1="189.0" x2="601" y2="189.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="604" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="720.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >③ 매복 섬멸</text>
+<text x="720.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >로열리스트 암살자</text>
+<line x1="836" y1="189.0" x2="883" y2="189.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="886" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1002.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >④ 탑 수색</text>
+<text x="1002.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >퍼시벌 초상화 · 피그 퇴장</text>
+<line x1="1118" y1="189.0" x2="1165" y2="189.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="1168" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1284.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑤ 숨은 입구</text>
+<text x="1284.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >고대 마법 웅덩이</text>
+<line x1="1400" y1="189.0" x2="1447" y2="189.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="1450" y="150" width="232" height="78" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="1566.0" y="185.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑥ 시험의 문</text>
+<text x="1566.0" y="207.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >복귀 불가</text>
+<path d="M 1680 228 C 1760 228, 1760 300, 1680 300 L 1540 300 C 1200 300, 600 300, 100 300 L 60 300 C 20 300, 20 330, 40 340" fill="none" stroke="#a7a9ad" stroke-width="2" />
+<rect x="40" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="156.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑦ 시험 던전</text>
+<text x="156.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >퍼즐 5 · 전투 3 · 저장 잠금</text>
+<line x1="272" y1="379.0" x2="319" y2="379.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="322" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="438.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >펜시브 가디언</text>
+<text x="438.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >아레나 웨이브 → 보스</text>
+<line x1="554" y1="379.0" x2="601" y2="379.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="604" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="720.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑧ 유물 + 기억 1</text>
+<text x="720.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >컷신</text>
+<line x1="836" y1="379.0" x2="883" y2="379.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="886" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1002.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑨ 결정 아치</text>
+<text x="1002.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >지도 내실 귀환</text>
+<line x1="1118" y1="379.0" x2="1165" y2="379.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="1168" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1284.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑩ 보고</text>
+<text x="1284.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >찰스 룩우드 등장</text>
+<line x1="1400" y1="379.0" x2="1447" y2="379.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<rect x="1450" y="340" width="232" height="78" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1566.0" y="375.0" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >⑪ 핫스팟 해금</text>
+<text x="1566.0" y="397.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >260 XP · 가을 시작</text>
+<text x="40" y="470" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >◆ 금빛 테두리 — 진행을 멈출 수 있는 지점. ② 텐트 속 편지를 조사하지 않으면 캠프를 전멸시켜도 넘어가지 않고(숨은 완료 조건), ⑥ 입장 뒤에는 탑으로 돌아갈 수 없다</text>
+<text x="40" y="496" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >■ 에메랄드 — 시험 본편. 퍼즐과 전투를 번갈아 배치하고, 마지막 퍼즐 이후 가디언 처치까지 수동 저장이 잠긴다</text>
+</svg>

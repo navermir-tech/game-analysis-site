@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 560" width="1800" height="560" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1800" height="560" fill="#1a1718"/>
+<defs><marker id="ah-3ecf8e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3ecf8e"/></marker><marker id="ah-9fb7c9" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9fb7c9"/></marker><marker id="ah-e2b85a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e2b85a"/></marker></defs>
+<text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">TWO NARRATIVE AXES</text>
+<text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >외적 축과 미스터리 축이 마지막 질문에서 만난다</text>
+<text x="40" y="134" font-size="14" fill="#9fb7c9" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >외적 축 — 란록 · 룩우드와의 저장소 경쟁 (시간 압박)</text>
+<rect x="40" y="160" width="190" height="70" rx="14" fill="#2a2627" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="135.0" y="191.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >금고 습격</text>
+<text x="135.0" y="214.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 1</text>
+<line x1="230" y1="195" x2="272" y2="195" stroke="#9fb7c9" stroke-width="2" marker-end="url(#ah-9fb7c9)"/>
+<rect x="276" y="160" width="190" height="70" rx="14" fill="#2a2627" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="371.0" y="191.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >빈 저장소</text>
+<text x="371.0" y="214.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 29</text>
+<line x1="466" y1="195" x2="508" y2="195" stroke="#9fb7c9" stroke-width="2" marker-end="url(#ah-9fb7c9)"/>
+<rect x="512" y="160" width="190" height="70" rx="14" fill="#2a2627" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="607.0" y="191.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >로드곡의 죽음</text>
+<text x="607.0" y="214.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 37</text>
+<line x1="702" y1="195" x2="744" y2="195" stroke="#9fb7c9" stroke-width="2" marker-end="url(#ah-9fb7c9)"/>
+<rect x="748" y="160" width="190" height="70" rx="14" fill="#2a2627" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="843.0" y="191.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >룩우드 처단</text>
+<text x="843.0" y="214.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 39</text>
+<text x="40" y="314" font-size="14" fill="#e2b85a" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >미스터리 축 — 이사도라의 네 기억 ('다음 시험을 할 이유')</text>
+<rect x="40" y="340" width="190" height="70" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="135.0" y="371.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기억 1</text>
+<text x="135.0" y="394.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 20</text>
+<line x1="230" y1="375" x2="272" y2="375" stroke="#e2b85a" stroke-width="2" marker-end="url(#ah-e2b85a)"/>
+<rect x="276" y="340" width="190" height="70" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="371.0" y="371.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기억 2</text>
+<text x="371.0" y="394.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 29</text>
+<line x1="466" y1="375" x2="508" y2="375" stroke="#e2b85a" stroke-width="2" marker-end="url(#ah-e2b85a)"/>
+<rect x="512" y="340" width="190" height="70" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="607.0" y="371.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기억 3</text>
+<text x="607.0" y="394.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 35</text>
+<line x1="702" y1="375" x2="744" y2="375" stroke="#e2b85a" stroke-width="2" marker-end="url(#ah-e2b85a)"/>
+<rect x="748" y="340" width="250" height="70" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="873.0" y="371.0" font-size="17" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기억 4 · 파수꾼의 진실</text>
+<text x="873.0" y="394.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 38</text>
+<polygon points="1180,195.0 1330.0,270 1180,345.0 1030.0,270" fill="#231f20" stroke="#3ecf8e" stroke-width="1.5"/>
+<text x="1180" y="268" font-size="15" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >저장소 앞의 질문</text>
+<text x="1180" y="286" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >봉인할 것인가, 쓸 것인가 · 메인 40</text>
+<path d="M 980 195 C 1064 195, 950 270, 1030 270" fill="none" stroke="#9fb7c9" stroke-width="2" marker-end="url(#ah-9fb7c9)"/>
+<path d="M 1040 375 C 1124 375, 950 270, 1030 270" fill="none" stroke="#e2b85a" stroke-width="2" marker-end="url(#ah-e2b85a)"/>
+<rect x="1440" y="235" width="320" height="70" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1600.0" y="275.76" font-size="16" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >피그의 죽음 · 추모식 · 에필로그</text>
+<line x1="1330" y1="270" x2="1436" y2="270" stroke="#3ecf8e" stroke-width="2" marker-end="url(#ah-3ecf8e)"/>
+<text x="40" y="500" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >두 축 모두 '힘을 어떻게 쓸 것인가'를 묻지만, 정작 플레이어의 힘 사용(저주)은 그 질문에 참여하지 못한다 — 심층 분석의 역설</text>
+</svg>

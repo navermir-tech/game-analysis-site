@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 560" width="1800" height="560" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1800" height="560" fill="#1a1718"/>
+<defs></defs>
+<text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">SENSITIVITY · 200,000 SIMULATED PLAYERS · BASE SCENARIO</text>
+<text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기준점 4안의 구원 · 균열 · 파국 비율 (기준 시나리오)</text>
+<text x="400" y="172" font-size="18" fill="#f3f4f5" text-anchor="end" font-weight="800" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >A 기존</text>
+<text x="400" y="194" font-size="12" fill="#a7a9ad" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기준점 7 · 균열 4–6 · 3단계 −4</text>
+<rect x="420" y="150" width="198.6" height="54" rx="6" fill="#3ecf8e" opacity="0.5"/>
+<text x="519.3" y="184.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >18%</text>
+<rect x="621.6" y="150" width="209.8" height="54" rx="6" fill="#e2b85a" opacity="0.5"/>
+<text x="726.5" y="184.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >19%</text>
+<rect x="834.4000000000001" y="150" width="691.4" height="54" rx="6" fill="#e36b6b" opacity="0.5"/>
+<text x="1180.1000000000001" y="184.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >62%</text>
+<text x="400" y="250" font-size="18" fill="#f3f4f5" text-anchor="end" font-weight="800" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >B</text>
+<text x="400" y="272" font-size="12" fill="#a7a9ad" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기준점 6 · 균열 4–5 · 3단계 −5</text>
+<rect x="420" y="228" width="265.8" height="54" rx="6" fill="#3ecf8e" opacity="0.5"/>
+<text x="552.9" y="262.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >24%</text>
+<rect x="688.8" y="228" width="153.8" height="54" rx="6" fill="#e2b85a" opacity="0.5"/>
+<text x="765.6999999999999" y="262.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >14%</text>
+<rect x="845.5999999999999" y="228" width="702.6" height="54" rx="6" fill="#e36b6b" opacity="0.5"/>
+<text x="1196.8999999999999" y="262.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >63%</text>
+<text x="400" y="328" font-size="18" fill="#f3f4f5" text-anchor="end" font-weight="800" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >C</text>
+<text x="400" y="350" font-size="12" fill="#a7a9ad" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기준점 7 · 균열 3–6 · 3단계 −4</text>
+<rect x="420" y="306" width="198.6" height="54" rx="6" fill="#3ecf8e" opacity="0.5"/>
+<text x="519.3" y="340.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >18%</text>
+<rect x="621.6" y="306" width="288.2" height="54" rx="6" fill="#e2b85a" opacity="0.5"/>
+<text x="765.7" y="340.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >26%</text>
+<rect x="912.8" y="306" width="613.0" height="54" rx="6" fill="#e36b6b" opacity="0.5"/>
+<text x="1219.3" y="340.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >55%</text>
+<text x="400" y="406" font-size="18" fill="#3ecf8e" text-anchor="end" font-weight="800" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >D 채택</text>
+<text x="400" y="428" font-size="12" fill="#a7a9ad" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기준점 6 · 균열 3–5 · 3단계 −5</text>
+<rect x="420" y="384" width="265.8" height="54" rx="6" fill="#3ecf8e" opacity="0.95"/>
+<text x="552.9" y="418.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >24%</text>
+<rect x="688.8" y="384" width="221.0" height="54" rx="6" fill="#e2b85a" opacity="0.95"/>
+<text x="799.3" y="418.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >20%</text>
+<rect x="912.8" y="384" width="624.2" height="54" rx="6" fill="#e36b6b" opacity="0.95"/>
+<text x="1224.9" y="418.0" font-size="17" fill="#1a1718" text-anchor="middle" font-weight="800" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >56%</text>
+<rect x="414" y="378" width="1132" height="66" rx="10" fill="none" stroke="#3ecf8e" stroke-width="2"/>
+<rect x="420" y="472" width="16" height="16" rx="4" fill="#3ecf8e"/>
+<text x="444" y="485" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >구원 — 세바스찬이 지팡이를 내림</text>
+<rect x="800" y="472" width="16" height="16" rx="4" fill="#e2b85a"/>
+<text x="824" y="485" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >균열 — 살인을 막지만 앤이 거리를 둠</text>
+<rect x="1180" y="472" width="16" height="16" rx="4" fill="#e36b6b"/>
+<text x="1204" y="485" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >파국 — 원작 루트, 솔로몬 사망</text>
+<text x="40" y="536" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >G3 목표: 유물의 그림자 도달자 중 구원 20–40%. 파국 비율은 구원 기준점이 아니라 균열 하한이 정한다 — 기준점만 낮추면(B) 균열이 줄어들 뿐 파국은 그대로다</text>
+</svg>

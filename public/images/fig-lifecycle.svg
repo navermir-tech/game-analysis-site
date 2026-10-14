@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 460" width="1800" height="460" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1800" height="460" fill="#1a1718"/>
+<defs><marker id="ah-a7a9ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#a7a9ad"/></marker><marker id="ah-e2b85a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e2b85a"/></marker></defs>
+<text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">QUEST LIFECYCLE</text>
+<text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >퀘스트 생명주기 — 잠김에서 허브 구간까지</text>
+<rect x="40" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="150.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잠김</text>
+<text x="150.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >로그에 ??? 슬롯</text>
+<line x1="260" y1="203.0" x2="329" y2="203.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<text x="296.0" y="146" font-size="12" fill="#9fb7c9" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >선행 완료 + 레벨·주문·편지</text>
+<rect x="332" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="442.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >시작 가능</text>
+<text x="442.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >로그 자동 등록</text>
+<line x1="552" y1="203.0" x2="621" y2="203.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<text x="588.0" y="146" font-size="12" fill="#9fb7c9" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >NPC 대화 · 지점 도달</text>
+<rect x="624" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="734.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >진행 중</text>
+<text x="734.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >활성 목표 1개</text>
+<line x1="844" y1="203.0" x2="913" y2="203.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<text x="880.0" y="146" font-size="12" fill="#9fb7c9" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >순차 목표 완료</text>
+<rect x="916" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1026.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >완료 가능</text>
+<text x="1026.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >마지막 보고만 남음</text>
+<line x1="1136" y1="203.0" x2="1205" y2="203.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<text x="1172.0" y="146" font-size="12" fill="#9fb7c9" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >보고 대화</text>
+<rect x="1208" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="1318.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >완료</text>
+<text x="1318.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >XP · 기능 해금</text>
+<line x1="1428" y1="203.0" x2="1497" y2="203.0" stroke="#a7a9ad" stroke-width="2" marker-end="url(#ah-a7a9ad)"/>
+<text x="1464.0" y="146" font-size="12" fill="#9fb7c9" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 메인 + 과제 + 사이드</text>
+<rect x="1500" y="160" width="220" height="86" rx="14" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="1610.0" y="199.0" font-size="18" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >허브 구간</text>
+<text x="1610.0" y="222.0" font-size="13" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >순서를 플레이어가 고름</text>
+<path d="M 700 246 C 700 320, 860 320, 860 246" fill="none" stroke="#e2b85a" stroke-width="2" stroke-dasharray="6 6" marker-end="url(#ah-e2b85a)"/>
+<text x="780" y="338" font-size="13" fill="#e2b85a" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >사망 → 체크포인트 재시작 (실패 상태 없음)</text>
+<text x="40" y="410" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >'일시 중단'은 명시적 상태가 아니라 추적 전환일 뿐이다. 수락 UI도 없어 등록은 자동, 시작은 대화, 끝은 보고다.</text>
+</svg>
