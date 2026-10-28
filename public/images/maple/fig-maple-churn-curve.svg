@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 480" width="1600" height="480" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1600" height="480" fill="#1a1718"/>
+<defs><marker id="ah-e2b85a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e2b85a"/></marker></defs>
+<text x="40" y="50" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >시즌 주기와 이탈 곡선 — 복귀 기준 84일이 나온 자리</text>
+<text x="40" y="78" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >시즌 시작은 12/19 → 6/19 → 12/18 → 6/18로 182일 주기. 8–14주 차에 떠난 유저를 전부 포함하려면 90일이 아니라 84일이어야 한다.</text>
+<line x1="120" y1="390.0" x2="1540" y2="390.0" stroke="#3a3537" stroke-width="1"/>
+<text x="110" y="394.0" font-size="12" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >0%</text>
+<line x1="120" y1="320.0" x2="1540" y2="320.0" stroke="#3a3537" stroke-width="1"/>
+<text x="110" y="324.0" font-size="12" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >25%</text>
+<line x1="120" y1="250.0" x2="1540" y2="250.0" stroke="#3a3537" stroke-width="1"/>
+<text x="110" y="254.0" font-size="12" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >50%</text>
+<line x1="120" y1="180.0" x2="1540" y2="180.0" stroke="#3a3537" stroke-width="1"/>
+<text x="110" y="184.0" font-size="12" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >75%</text>
+<line x1="120" y1="110.0" x2="1540" y2="110.0" stroke="#3a3537" stroke-width="1"/>
+<text x="110" y="114.0" font-size="12" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >100%</text>
+<text x="120.0" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >0주</text>
+<text x="229.23076923076923" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >2주</text>
+<text x="338.46153846153845" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >4주</text>
+<text x="447.69230769230774" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >6주</text>
+<text x="556.9230769230769" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >8주</text>
+<text x="666.1538461538462" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >10주</text>
+<text x="775.3846153846155" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >12주</text>
+<text x="884.6153846153845" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >14주</text>
+<text x="993.8461538461539" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >16주</text>
+<text x="1103.076923076923" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >18주</text>
+<text x="1212.3076923076924" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >20주</text>
+<text x="1321.5384615384614" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >22주</text>
+<text x="1430.769230769231" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >24주</text>
+<text x="1540.0" y="412" font-size="11" fill="#6b6e73" text-anchor="middle" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >26주</text>
+<rect x="556.9230769230769" y="110" width="327.6923076923076" height="280" fill="#e2b85a" opacity="0.10"/>
+<text x="720.7692307692307" y="128" font-size="13" fill="#e2b85a" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >이탈 구간 8–14주</text>
+<text x="720.7692307692307" y="146" font-size="12" fill="#e2b85a" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >피크 대비 50% → 35%</text>
+<path d="M 120.0 110.0 L 229.23076923076923 166.0 L 365.7692307692308 208.0 L 584.2307692307693 250.0 L 830.0 292.0" fill="none" stroke="#3ecf8e" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M 830.0 292.0 L 1540.0 292.0" fill="none" stroke="#3ecf8e" stroke-width="2" stroke-dasharray="6 6" opacity="0.6"/>
+<circle cx="120.0" cy="110.0" r="5" fill="#3ecf8e" stroke="#1a1718" stroke-width="2"/>
+<circle cx="229.23076923076923" cy="166.0" r="5" fill="#3ecf8e" stroke="#1a1718" stroke-width="2"/>
+<circle cx="365.7692307692308" cy="208.0" r="5" fill="#3ecf8e" stroke="#1a1718" stroke-width="2"/>
+<circle cx="584.2307692307693" cy="250.0" r="5" fill="#3ecf8e" stroke="#1a1718" stroke-width="2"/>
+<circle cx="830.0" cy="292.0" r="5" fill="#3ecf8e" stroke="#1a1718" stroke-width="2"/>
+<text x="128.0" y="100.0" font-size="12" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >100% 시즌 시작(여름·겨울 대형 업데이트)</text>
+<text x="838.0" y="282.0" font-size="12" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔류 유저만 남음 · 시즌4는 13주에 종료</text>
+<line x1="1540.0" y1="110" x2="1540.0" y2="390" stroke="#3ecf8e" stroke-width="2"/>
+<text x="1532.0" y="128" font-size="12" fill="#3ecf8e" text-anchor="end" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 시즌 시작 (26주 = 182일 주기)</text>
+<line x1="365.7692307692308" y1="390" x2="365.7692307692308" y2="376" stroke="#b79cf0" stroke-width="2"/>
+<text x="365.7692307692308" y="370" font-size="11" fill="#b79cf0" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >1차 사전 리프</text>
+<line x1="584.2307692307693" y1="390" x2="584.2307692307693" y2="376" stroke="#b79cf0" stroke-width="2"/>
+<text x="584.2307692307693" y="370" font-size="11" fill="#b79cf0" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >2차 사전 리프</text>
+<line x1="884.6153846153845" y1="330" x2="1536.0" y2="330" stroke="#e2b85a" stroke-width="2" marker-end="url(#ah-e2b85a)"/>
+<text x="1212.3076923076924" y="320" font-size="12" fill="#e2b85a" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >14주 차 이탈자가 다음 시즌까지 쉬는 기간 = 84일 (12주) → 복귀 기준</text>
+<text x="120" y="436" font-size="12" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >출처: 2023-12→2024-04, 2025-06 PC방 점유율 보도 4건을 보간한 추정. 넥슨 내부 동접 데이터가 아니며 PC방 이용자는 전체의 일부</text>
+</svg>
