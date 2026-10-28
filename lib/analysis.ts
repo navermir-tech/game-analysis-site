@@ -25,7 +25,10 @@ export const categoryBadge: Record<Category, string> = {
 };
 
 /** 분석한 게임 — 홈의 게임 필터 탭과 제목의 '게임 | 문서' 표기에 쓰입니다. */
-export const games = [{ key: "hogwarts-legacy", label: "호그와트 레거시", year: 2023 }] as const;
+export const games = [
+  { key: "hogwarts-legacy", label: "호그와트 레거시", year: 2023 },
+  { key: "maplestory", label: "메이플스토리", year: 2003 },
+] as const;
 
 export type GameKey = (typeof games)[number]["key"];
 
@@ -102,6 +105,38 @@ export const analysisItems: AnalysisItem[] = [
     intro:
       "세바스찬 관계 퀘스트와 결말 전체를 다룹니다. 신규 대사와 설정은 제안용 초안이며 원작 대사를 옮긴 것이 아닙니다. 수치는 플레이테스트로 보정하는 가안입니다.",
     relatedSlugs: ["hogwarts-legacy-deep-dive", "hogwarts-legacy-reverse-design"],
+    updated: "2026.10",
+  },
+  {
+    slug: "maplestory-companion-proposal",
+    category: "proposal",
+    game: "maplestory",
+    title: "길잡이 동행 콘텐츠 기획서",
+    subtitle: "스승 1 · 제자 1 · 주 1회 15분 원정 — 관계로 굴러가는 콘텐츠",
+    logline:
+      "KMS의 '플레이 타임 압축 · 솔로 기본' 기조와 해외 서버의 사제 시스템을 겹쳐 비어 있는 자리를 찾고, 거기에 숙련 유저와 신규·복귀 유저가 12주 동안 한 쌍으로 도는 15분 2인 던전을 제안한다. 스승 보상의 트리거를 활동량이 아니라 제자의 성장에 걸어 선행 사례 7건의 실패 모드를 피했고, 화면 목업 14장과 코인 경제, 지표 검증 설계까지 한 문서에 담았다.",
+    thumbnail: "/images/thumb-maple-companion.svg",
+    hero: "/images/hero-maple-companion.svg",
+    tags: ["콘텐츠 기획", "관계형 시스템", "매칭 · 보상 설계", "UI 목업", "라이브 운영"],
+    intro:
+      "KMS·GMS·해외 서버 동향 조사와 사제·멘토링 사례 7건 분석을 바탕으로 쓴 콘텐츠 기획서입니다. 게임 사실은 2026-10-28 기준으로 확인했고, 수치는 출처를 적지 않은 한 가정값입니다. 화면 이미지는 ChatGPT로 만든 목업이며 실제 리소스가 아닙니다.",
+    relatedSlugs: ["maplestory-companion-detail"],
+    updated: "2026.10",
+  },
+  {
+    slug: "maplestory-companion-detail",
+    category: "proposal",
+    game: "maplestory",
+    title: "길잡이 동행 상세 설계",
+    subtitle: "던전 화면 · 수호자 · 리듬 전투 · 졸업식 대본 · 배움 과제 풀",
+    logline:
+      "기획서 본문에서 떼어 낸 제작 사양. 세 스테이지에서 제자와 스승이 각자 보는 화면과 알림 흐름, 보스 '수호자'의 캐릭터 디자인과 패턴 상태 시트, 선창–응답 리듬 전투의 키 배치·단계별 노트·판정, 3막 졸업식의 시간별 대본과 연출 시안 6장, 배움 과제 풀 36개를 담았다.",
+    thumbnail: "/images/thumb-maple-detail.svg",
+    hero: "/images/hero-maple-detail.svg",
+    tags: ["레벨 디자인", "보스 설계", "리듬 전투", "연출 대본", "UI 목업"],
+    intro:
+      "'길잡이 동행 콘텐츠 기획서'의 상세 설계서입니다. 절 번호는 본문과 같은 체계를 쓰며, 여기 없는 번호(6-2 · 6-7 · 7-1 · 7-3 등)는 본문의 절입니다. 화면·컨셉 이미지는 ChatGPT로 만든 목업이며 실제 리소스가 아닙니다.",
+    relatedSlugs: ["maplestory-companion-proposal"],
     updated: "2026.10",
   },
 ];
