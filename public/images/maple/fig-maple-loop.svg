@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1600" height="600" fill="#1a1718"/>
+<defs><marker id="ah-3ecf8e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3ecf8e"/></marker><marker id="ah-a7a9ad" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#a7a9ad"/></marker><marker id="ah-e2b85a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#e2b85a"/></marker></defs>
+<text x="40" y="50" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >길잡이 동행 — 핵심 루프</text>
+<text x="40" y="78" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >한 쌍이 12주 동안 매주 세 가지를 하고, 졸업 조건을 채우면 졸업 원정으로 끝난다. 스승의 보상은 제자의 성장에만 걸린다.</text>
+<rect x="170.0" y="258.0" width="200.0" height="90.0" rx="14.0" fill="#2a2627" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="270.0" y="299.0" font-size="19.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >인연 맺기</text>
+<text x="270.0" y="322.0" font-size="13.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >상시 매칭 · 계정 단위 자격</text>
+<rect x="430.0" y="148.0" width="520.0" height="310.0" rx="18.0" fill="#231f20" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="454.0" y="182.0" font-size="12.0" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">WEEKLY LOOP × 12</text>
+<text x="454.0" y="218.0" font-size="22.0" fill="#f3f4f5" text-anchor="start" font-weight="800" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >주간 루프</text>
+<text x="570.0" y="218.0" font-size="12.0" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >매주 목요일 초기화 · 추가 플레이 제자 20–25분, 스승 15–20분</text>
+<rect x="454.0" y="244.0" width="472.0" height="56.0" rx="12.0" fill="#2a2627" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="690.0" y="268.0" font-size="16.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >성장 과제 3개</text>
+<text x="690.0" y="290.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >제자 혼자, 평소 플레이로</text>
+<rect x="454.0" y="312.0" width="472.0" height="56.0" rx="12.0" fill="#2a2627" stroke="#b79cf0" stroke-width="1.5" opacity="1"/>
+<text x="690.0" y="336.0" font-size="16.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >배움 과제 1개</text>
+<text x="690.0" y="358.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >튜토리얼형 · 스승이 고르고 승인</text>
+<rect x="454.0" y="380.0" width="472.0" height="56.0" rx="12.0" fill="#2a2627" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="690.0" y="404.0" font-size="16.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >2인 원정 1회</text>
+<text x="690.0" y="426.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >15분 · 파수꾼 + 탐험가</text>
+<line x1="370.0" y1="303.0" x2="424.0" y2="303.0" stroke="#3ecf8e" stroke-width="2.0" marker-end="url(#ah-3ecf8e)"/>
+<polygon points="1050.0,248.0 1135.0,303.0 1050.0,358.0 965.0,303.0" fill="#231f20" stroke="#e2b85a" stroke-width="1.5"/>
+<text x="1050.0" y="301.0" font-size="16.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >졸업 조건</text>
+<text x="1050.0" y="319.0" font-size="12" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >트랙별 · 원정 10회</text>
+<line x1="950.0" y1="303.0" x2="959.0" y2="303.0" stroke="#a7a9ad" stroke-width="2.0" marker-end="url(#ah-a7a9ad)"/>
+<path d="M 1050.0 248.0 L 1050.0 118.0 L 690.0 118.0 L 690.0 142.0" fill="none" stroke="#a7a9ad" stroke-width="2.0" stroke-dasharray="6 6" marker-end="url(#ah-a7a9ad)"/>
+<text x="870.0" y="110.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >아니오 → 다음 주</text>
+<rect x="1180.0" y="258.0" width="250.0" height="90.0" rx="14.0" fill="#2a2627" stroke="#e2b85a" stroke-width="1.5" opacity="1"/>
+<text x="1305.0" y="299.0" font-size="18.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >졸업 원정 3막</text>
+<text x="1305.0" y="321.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >역할 반전 · 스승의 시험 · 졸업식</text>
+<line x1="1135.0" y1="303.0" x2="1174.0" y2="303.0" stroke="#e2b85a" stroke-width="2.0" marker-end="url(#ah-e2b85a)"/>
+<text x="1120.0" y="288.0" font-size="12.0" fill="#e2b85a" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >예</text>
+<rect x="1180.0" y="398.0" width="250.0" height="96.0" rx="14.0" fill="#231f20" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="1305.0" y="442.0" font-size="15.0" fill="#f3f4f5" text-anchor="middle" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >스승: 코인 + 훈장 기록</text>
+<text x="1305.0" y="464.0" font-size="12.0" fill="#a7a9ad" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >제자: 다음 시즌 등반 트랙 → 스승</text>
+<line x1="1305.0" y1="348.0" x2="1305.0" y2="392.0" stroke="#3ecf8e" stroke-width="2.0" marker-end="url(#ah-3ecf8e)"/>
+<path d="M 1305.0 494.0 L 1305.0 538.0 L 270.0 538.0 L 270.0 354.0" fill="none" stroke="#3ecf8e" stroke-width="2.0" stroke-dasharray="6 6" marker-end="url(#ah-3ecf8e)"/>
+<text x="790.0" y="560.0" font-size="12.0" fill="#3ecf8e" text-anchor="middle" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 시즌 — 졸업한 제자가 스승이 되거나, 스승이 다음 제자를 받음</text>
+</svg>

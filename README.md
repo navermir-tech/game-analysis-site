@@ -61,6 +61,7 @@ content/analysis/    분석서 본문 (.md)
 lib/                 분석서 목록, 본문 파서, 사이트 공통 설정
 public/images/       썸네일·배너·그림 (SVG)
 tools/figures.py     그림 SVG를 다시 만드는 스크립트 (python3 tools/figures.py public/images)
+tools/figures_maple.py  메이플스토리 기획서의 루프 그림·썸네일·배너 (python3 tools/figures_maple.py public/images)
 ```
 
 ## 배포 (Netlify)
