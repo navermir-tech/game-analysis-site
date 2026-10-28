@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 600" width="1600" height="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif">
+<rect width="1600" height="600" fill="#1a1718"/>
+<defs><marker id="ah-3ecf8e" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3ecf8e"/></marker></defs>
+<text x="40" y="44" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">MOCKUP · QUEST LOG</text>
+<text x="40" y="82" font-size="28" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >'???' 슬롯이 잠긴 이유를 말하게 한다</text>
+<rect x="40" y="100" width="720" height="470" rx="16" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="64" y="134" font-size="12" fill="#6b6e73" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">BEFORE — 원작</text>
+<rect x="64" y="152" width="672" height="44" rx="8" fill="#b79cf0" stroke="none" stroke-width="1.5" opacity="0.85"/>
+<text x="400.0" y="180" font-size="15" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 시험에 도전하기 위해 마법 능력 더 성장시키기</text>
+<text x="80" y="228" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="228" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">코블린 로드곡 찾기</text>
+<text x="80" y="256" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="256" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">마법 동물 수업 출석하기</text>
+<text x="80" y="284" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="284" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">펠드크로프트에서 세바스찬을 만나기</text>
+<text x="80" y="312" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="312" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<text x="80" y="340" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="340" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<text x="80" y="368" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="368" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<text x="80" y="396" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="98" y="396" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<rect x="64" y="484" width="672" height="62" rx="10" fill="#231f20" stroke="#e36b6b" stroke-width="1.5" opacity="1"/>
+<text x="80" y="510" font-size="14" fill="#f3f4f5" text-anchor="start" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 메인이 왜 안 뜨는지, 무엇을 하면 열리는지 알 수 없다</text>
+<text x="80" y="532" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >레벨 게이트 · 편지 트리거 · 과제 조건이 모두 '???' 하나로 뭉개진다</text>
+<line x1="772" y1="335" x2="828" y2="335" stroke="#3ecf8e" stroke-width="3" marker-end="url(#ah-3ecf8e)"/>
+<rect x="840" y="100" width="720" height="470" rx="16" fill="#2a2627" stroke="#3a3537" stroke-width="1.5" opacity="1"/>
+<text x="864" y="134" font-size="12" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">AFTER — 개선안</text>
+<rect x="864" y="152" width="672" height="44" rx="8" fill="#b79cf0" stroke="none" stroke-width="1.5" opacity="0.85"/>
+<text x="1200.0" y="180" font-size="15" fill="#f3f4f5" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >다음 시험에 도전하기 위해 마법 능력 더 성장시키기</text>
+<text x="880" y="228" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="898" y="228" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">코블린 로드곡 찾기</text>
+<text x="880" y="256" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="898" y="256" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">마법 동물 수업 출석하기</text>
+<text x="880" y="284" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="898" y="284" font-size="14" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" text-decoration="line-through">펠드크로프트에서 세바스찬을 만나기</text>
+<rect x="872" y="294" width="656" height="74" rx="10" fill="#231f20" stroke="#3ecf8e" stroke-width="1.5" opacity="1"/>
+<text x="888" y="314" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<rect x="936" y="301" width="156" height="22" rx="11.0" fill="#e2b85a" stroke="none" stroke-width="1.5" opacity="1"/>
+<text x="1014.0" y="315.96" font-size="11" fill="#1a1718" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >필요 레벨 15 · 현재 13</text>
+<text x="888" y="338" font-size="12" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >근처에서 할 수 있는 것 — 샤프 교수의 과제 2 · 달 뒤의 남자 (추천 Lv11) · 호그와트 속 숨겨진 보물</text>
+<text x="888" y="356" font-size="12" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >모두 마치면 약 1.5레벨. 가장 가까운 것부터 추적</text>
+<rect x="872" y="372" width="656" height="52" rx="10" fill="#231f20" stroke="#9fb7c9" stroke-width="1.5" opacity="1"/>
+<text x="888" y="392" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<rect x="936" y="379" width="110" height="22" rx="11.0" fill="#9fb7c9" stroke="none" stroke-width="1.5" opacity="1"/>
+<text x="991.0" y="393.96" font-size="11" fill="#1a1718" text-anchor="middle" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >편지 확인 필요</text>
+<text x="888" y="414" font-size="12" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >피그 교수의 편지를 읽으면 열립니다 (부엉이 우편 1통)</text>
+<text x="880" y="450" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="898" y="450" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<text x="880" y="478" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >•</text>
+<text x="898" y="478" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >???</text>
+<text x="880" y="548" font-size="12" fill="#6b6e73" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잠긴 이유를 슬롯마다 보여 주고, 레벨 게이트에는 근처 추천 활동을 붙인다. 트리거 편지에만 배지를 달아 알림 피로를 막는다</text>
+</svg>

@@ -4,58 +4,58 @@
 <text x="40" y="48" font-size="13" fill="#3ecf8e" text-anchor="start" font-weight="600" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" letter-spacing="2">STEAM GLOBAL ACHIEVEMENTS · FUNNEL</text>
 <text x="40" y="84" font-size="24" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 퀘스트 진행에 따른 업적 달성률</text>
 <rect x="300" y="120" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="120" width="1016.4" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="120" width="1014.2" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="148.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >도입·배정</text>
 <text x="284" y="164.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 1–2</text>
-<text x="1328.4" y="148.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >92.4%</text>
+<text x="1326.2" y="148.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >92.2%</text>
 <rect x="300" y="180" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="180" width="931.7" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="180" width="927.3" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="208.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >첫 수업</text>
 <text x="284" y="224.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 3</text>
-<text x="1243.7" y="208.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >84.7%</text>
-<text x="1414" y="208.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 92%</text>
+<text x="1239.3" y="208.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >84.3%</text>
+<text x="1414" y="208.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 91%</text>
 <rect x="300" y="240" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="240" width="850.3" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="240" width="843.7" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="268.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >호그스미드 트롤</text>
 <text x="284" y="284.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 6</text>
-<text x="1162.3" y="268.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >77.3%</text>
+<text x="1155.7" y="268.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >76.7%</text>
 <text x="1414" y="268.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 91%</text>
 <rect x="300" y="300" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="300" width="609.4" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="300" width="602.8" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="328.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >퍼시벌의 시험</text>
 <text x="284" y="344.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 20</text>
-<text x="921.4" y="328.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >55.4%</text>
-<text x="1414" y="328.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 72%</text>
+<text x="914.8" y="328.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >54.8%</text>
+<text x="1414" y="328.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 71%</text>
 <rect x="300" y="360" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="360" width="410.3" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="360" width="404.8" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="388.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >불과 악행</text>
 <text x="284" y="404.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 30</text>
-<text x="722.3" y="388.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >37.3%</text>
+<text x="716.8" y="388.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >36.8%</text>
 <text x="1414" y="388.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 67%</text>
 <rect x="300" y="420" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="420" width="348.7" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="420" width="343.2" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="448.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >니암의 시험</text>
 <text x="284" y="464.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 35</text>
-<text x="660.7" y="448.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >31.7%</text>
+<text x="655.2" y="448.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >31.2%</text>
 <text x="1414" y="448.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 85%</text>
 <rect x="300" y="480" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="480" width="304.7" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="480" width="300.3" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="508.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >산 바카르의 시험</text>
 <text x="284" y="524.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 38</text>
-<text x="616.7" y="508.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >27.7%</text>
-<text x="1414" y="508.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 87%</text>
+<text x="612.3" y="508.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >27.3%</text>
+<text x="1414" y="508.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 88%</text>
 <rect x="300" y="540" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="540" width="287.1" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
+<rect x="300" y="540" width="283.8" height="44" rx="8" fill="#3ecf8e" opacity="0.85"/>
 <text x="284" y="568.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >란록 처치</text>
 <text x="284" y="584.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 40</text>
-<text x="599.1" y="568.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >26.1%</text>
-<text x="1414" y="568.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 94%</text>
+<text x="595.8" y="568.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >25.8%</text>
+<text x="1414" y="568.0" font-size="13" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 95%</text>
 <rect x="300" y="600" width="1100" height="44" rx="8" fill="#2a2627"/>
-<rect x="300" y="600" width="162.8" height="44" rx="8" fill="#e2b85a" opacity="0.95"/>
+<rect x="300" y="600" width="160.6" height="44" rx="8" fill="#e2b85a" opacity="0.95"/>
 <text x="284" y="628.0" font-size="15" fill="#f3f4f5" text-anchor="end" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >기숙사 우승컵</text>
 <text x="284" y="644.0" font-size="11" fill="#6b6e73" text-anchor="end" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >메인 43</text>
-<text x="474.8" y="628.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >14.8%</text>
+<text x="472.6" y="628.0" font-size="16" fill="#f3f4f5" text-anchor="start" font-weight="700" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, monospace" opacity="1" >14.6%</text>
 <text x="1414" y="628.0" font-size="13" fill="#e2b85a" text-anchor="start" font-weight="600" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >잔존 57%</text>
 <text x="1510" y="628.0" font-size="13" fill="#e2b85a" text-anchor="start" font-weight="700" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >← Lv34 하드 게이트</text>
-<text x="40" y="690" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >달성률은 설치자 전체 기준(조회 시점, 스냅샷마다 ±1%p). 란록 처치 26.1% → 기숙사 우승컵 14.8%, 잔존 약 57% — 이야기를 끝까지 본 10명 중 4명이 마지막 컷신을 보지 못한다</text>
+<text x="40" y="690" font-size="14" fill="#a7a9ad" text-anchor="start" font-weight="400" font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans CJK KR', 'Noto Sans KR', sans-serif" opacity="1" >달성률은 설치자 전체 기준(2026-10-28 조회, 스냅샷마다 ±1%p). 란록 처치 25.8% → 기숙사 우승컵 14.6%, 잔존 약 57% — 이야기를 끝까지 본 10명 중 4명이 마지막 컷신을 보지 못한다</text>
 </svg>
