@@ -108,6 +108,38 @@ export const analysisItems: AnalysisItem[] = [
     updated: "2026.10",
   },
   {
+    slug: "maplestory-market-gap-analysis",
+    category: "analysis",
+    game: "maplestory",
+    title: "KMS·GMS·해외 서버 동향과 빈틈",
+    subtitle: "시간을 줄인 KMS, 이유를 더한 해외 — 후보 7개에서 하나를 고르기까지",
+    logline:
+      "2025~2026년 KMS·GMS 업데이트 13건과 JMS·TMS·CMS·MSEA의 독자 콘텐츠를 서버별 '방향'으로 묶고, 같은 본편을 쓰는 두 서버를 8개 축으로 비교해 어느 쪽도 다루지 않은 자리를 찾았다. 그 자리를 메울 결합 원칙 5개를 세우고, 후보 7개를 다섯 기준으로 채점해 하나를 골랐다. 떨어진 후보에서 무엇을 흡수했는지까지 적었다.",
+    thumbnail: "/images/thumb-maple-gap.svg",
+    hero: "/images/hero-maple-gap.svg",
+    tags: ["업데이트 동향", "경쟁 분석", "문제 정의", "후보 평가"],
+    intro:
+      "공식 패치 노트·쇼케이스 정리와 2차 보도를 근거로 한 동향 분석입니다. 조사 기준일은 2026-10-08, 사실 재확인은 10-28입니다. 자료의 신뢰도는 문서 끝에 A~D 등급으로 표시했고, '강점과 빈틈'·'결합 원칙'·후보 평가는 자료가 아닌 판단입니다.",
+    relatedSlugs: ["maplestory-mentorship-deep-dive", "maplestory-companion-proposal"],
+    updated: "2026.10",
+  },
+  {
+    slug: "maplestory-mentorship-deep-dive",
+    category: "analysis",
+    game: "maplestory",
+    title: "사제·멘토링 시스템 심층 분석",
+    subtitle: "같은 자리를 세 번 채운 메이플, 사례 6건이 가리키는 한 가지 규칙",
+    logline:
+      "메이플 패밀리(2008)부터 MSEA 멘토십(2026)까지 사제·멘토링 시스템 6건을 7개 축으로 비교해 반복되는 실패 모드 6개를 찾고, 설계 원칙 7개로 바꿨다. 성패는 보상이 활동량에 걸리느냐 제자의 성장에 걸리느냐로 갈린다. 보스 1인 격파 업적률로 스승 허들을, 시즌 캘린더와 이탈 곡선으로 복귀 기준 84일을 숫자로 정했다.",
+    thumbnail: "/images/thumb-maple-mentorship.svg",
+    hero: "/images/hero-maple-mentorship.svg",
+    tags: ["사례 비교", "시스템 분석", "데이터 분석", "보상 설계"],
+    intro:
+      "TMS 사제 시스템·홍월의 숲 공식 안내와 MSEA v253 패치 노트는 전문을 읽었고, 패밀리·FFXIV·검은사막은 위키와 보도 기준입니다. 업적 달성률 환산과 이탈 곡선은 커뮤니티 집계와 PC방 점유율 보도를 보간한 추정이며, 넥슨 내부 데이터가 아닙니다.",
+    relatedSlugs: ["maplestory-market-gap-analysis", "maplestory-companion-proposal"],
+    updated: "2026.10",
+  },
+  {
     slug: "maplestory-companion-proposal",
     category: "proposal",
     game: "maplestory",
@@ -120,7 +152,7 @@ export const analysisItems: AnalysisItem[] = [
     tags: ["콘텐츠 기획", "관계형 시스템", "매칭 · 보상 설계", "UI 목업", "라이브 운영"],
     intro:
       "KMS·GMS·해외 서버 동향 조사와 사제·멘토링 사례 7건 분석을 바탕으로 쓴 콘텐츠 기획서입니다. 게임 사실은 2026-10-28 기준으로 확인했고, 수치는 출처를 적지 않은 한 가정값입니다. 화면 이미지는 ChatGPT로 만든 목업이며 실제 리소스가 아닙니다.",
-    relatedSlugs: ["maplestory-companion-detail"],
+    relatedSlugs: ["maplestory-companion-detail", "maplestory-mentorship-deep-dive", "maplestory-market-gap-analysis"],
     updated: "2026.10",
   },
   {
