@@ -919,7 +919,7 @@ ChatGPT 생성 컨셉 이미지. 2~3등신에 또렷한 외곽선이라는 메�
 | 보상 | 코인, 칭호 "OOO의 제자/스승", 코디 세트 1종 | 훈장 4종, 훈장 배지 노출, 코인샵 7종, NPC 등불지기 연출 |
 | 측정 | 10장 지표와 비교군 설계 | 시즌 간 비교 |
 
-1차는 "사제 + 15분 던전 + 보상 트리거"라는 뼈대이고, 6장 후반과 7-2의 상세는 전부 후속입니다. 포트폴리오로는 상세가 강점이지만, 출시 계획으로는 이 절단선이 먼저입니다.
+1차는 "사제 + 15분 던전 + 보상 트리거"라는 뼈대이고, 6장 후반과 7-2의 상세는 전부 후속입니다. 문서로는 상세가 강점이지만, 출시 계획으로는 이 절단선이 먼저입니다.
 
 ---
 
@@ -937,7 +937,7 @@ ChatGPT 생성 컨셉 이미지. 2~3등신에 또렷한 외곽선이라는 메�
 
 ::: details 부록: 근거 자료
 
-- [KMS·GMS·해외 서버 동향과 빈틈](/analysis/maplestory-market-gap-analysis) — 2025–26 업데이트 동향, 8개 축 비교, 결합 원칙 5개, 후보 7개 평가 매트릭스, 자료 신뢰도 등급
+- [KMS·GMS·해외 서버 동향과 빈틈](/analysis/maplestory-market-gap-analysis) — 2025–26 업데이트 동향, 8개 축 비교, 결합 원칙 5개, 후보 7개와 선정 이유, 자료 신뢰도 등급
 - [사제·멘토링 시스템 심층 분석](/analysis/maplestory-mentorship-deep-dive) — 사례 6건 비교와 실패 패턴 · 설계 원칙 7개, 스승 허들 근거(보스 업적률), 시즌 캘린더와 이탈 곡선(휴면 기준 84일), TMS 사제 시스템 · 홍월의 숲 수치
 - 스펙터 블래스트 구조: [인벤 가이드](https://www.inven.co.kr/board/maple/2304/47590), [인벤 공략](https://www.inven.co.kr/board/maple/2304/47622), [공식 이벤트 댓글](https://m.maplestory.nexon.com/News/Event/1340)
 - 버닝 수치: [게임플 OVERDRIVE](https://www.gameple.co.kr/news/articleView.html?idxno=215832), [게임플 버닝 비욘드](https://www.gameple.co.kr/news/articleView.html?idxno=213293)
